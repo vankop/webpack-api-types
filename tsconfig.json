@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "es2022",
+    "target": "esnext",
+    "sourceMap": true,
+    "types": ["webpack/module"]
+  },
+  "include": ["src"]
+}
